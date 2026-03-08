@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7705790d9e8e16344ad5d7960c568904
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107400
+  packageName: FREE Skybox Extended Shader
+  packageVersion: 2.4.0
+  assetPath: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Shaders/Skybox Cubemap
+    Blend.shader
+  uploadId: 812646
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Tex: {instanceID: 0}
+  - _Tex_Blend: {instanceID: 0}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
